@@ -1,4 +1,5 @@
 package %w[
+  dbus-x11
   libasound2
   libatk1.0-0
   libc6
